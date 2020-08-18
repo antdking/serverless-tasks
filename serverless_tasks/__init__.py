@@ -7,3 +7,6 @@ Supports:
 """
 
 __version__ = "0.1.0"
+
+
+from ._wrapper import task
