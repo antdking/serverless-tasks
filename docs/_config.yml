@@ -1,0 +1,9 @@
+remote_theme: pmarsceill/just-the-docs
+
+title: Serverless Tasks
+description: A Library for defining and calling Background Tasks in a Serverless Environment.
+baseurl: /serverless-tasks
+url: "https://cybojenix.github.io"
+
+search_enabled: true
+permalink: pretty
